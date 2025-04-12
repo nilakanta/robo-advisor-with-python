@@ -20,4 +20,5 @@ dependencies = [
     "xlrd>=2.0.1",
     "openpyxl>=3.1.5",
     "tqdm>=4.67.1",
+    "getfamafrenchfactors>=0.0.5",
 ]
